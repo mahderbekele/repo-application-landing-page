@@ -1,1 +1,1 @@
-# repo-application-landing-page
+# This repository contains an application landing page.
